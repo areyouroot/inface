@@ -1,0 +1,3 @@
+first page home page
+second page login (or) register
+third page logged inpage/profile page
